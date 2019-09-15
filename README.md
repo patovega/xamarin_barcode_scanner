@@ -23,5 +23,5 @@ El proyecto funciona en Android 9.0 - API 28
   
 ## ZXing
 
-ZXing.Net.Mobile v2.4.1
-ZXing.Net.Mobile.forms v2.4.1
+  * ZXing.Net.Mobile v2.4.1
+  * ZXing.Net.Mobile.forms v2.4.1
